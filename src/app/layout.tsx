@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import Link from "next/link";
 import { Inter } from "@next/font/google";
 
 // Load the Inter font from Google Fonts
